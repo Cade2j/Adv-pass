@@ -11,3 +11,5 @@ while pnf:
         print('Try Agian')
 print('Welcome')
 # you can add your own programes here to add a password to them
+# "Cade" is the password
+# print(hashtxt("Password")) is how you get the Hash
