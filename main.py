@@ -1,4 +1,4 @@
-import hashlib
+import hashlib as hash
 #pnf = password not found
 pnf = True
 def hashtxt(txt):
