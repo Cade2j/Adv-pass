@@ -1,4 +1,5 @@
 import hashlib
+#pnf = password not found
 pnf = True
 def hashtxt(text):
     text_bytes = text.encode('utf-8')
